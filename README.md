@@ -92,30 +92,29 @@ pip install tensorflow numpy pandas matplotlib seaborn
 ```
 
 
-## Step 3: Execute the Notesbook
+## Step 3: Execute the Notebook
+- Run all cells sequentially
+- The notebook will:
+  - Load the dataset
+  - Train the CNN model
+  - Evaluate model performance
+  - Display output graphs and predictions
 
--Run all cells sequentially
--The notebook will:
-	-Load the dataset
-	-Train the CNN model
-	-Evaluate model performance
-	-Display output graphs and predictions
 
 ---
 
-# Results 
+# Results
+- Model accuracy and loss graphs are generated
+- Training and validation results are visualized
+- Prediction outputs are stored in the `results/` folder
 
--Model accuracy and loss graphs are generated
--Training and validation results are visualized
--Prediction outputs are stored in the results/ folder
 
 ---
 
 # Documentation
-
--Complete project report explaining methodology and results
--Academic documentation and analysis
--All documentation files are available in the report/ folder.
+- Complete project report explaining methodology and results
+- Academic documentation and analysis
+- All documentation files are available in the `report/` folder
 
 ---
 
@@ -129,6 +128,7 @@ This project demonstrates the effective use of deep learning techniques in healt
 
 **Keerthana S**  
 B.Tech – CSE (Artificial Intelligence and Data Analytics)
+
 
 
 
