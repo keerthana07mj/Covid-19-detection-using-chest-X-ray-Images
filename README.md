@@ -83,14 +83,14 @@ Covid-19-detection-using-chest-X-ray-Images/
 - Navigate to the `notebooks/` folder  
 - Open `COVID19_DL.ipynb` in Jupyter Notebook or Google Colab  
 
----
+
 
 ## Step 2: Install Required Libraries
 
 ```bash
 pip install tensorflow numpy pandas matplotlib seaborn
 ```
----
+
 
 ## Step 3: Execute the Notesbook
 
@@ -129,6 +129,7 @@ This project demonstrates the effective use of deep learning techniques in healt
 
 **Keerthana S**  
 B.Tech – CSE (Artificial Intelligence and Data Analytics)
+
 
 
 
